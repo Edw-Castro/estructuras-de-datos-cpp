@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="estructuras-de-datos-cpp.cpp">
+    <ClCompile Include="pila-estatica-struct.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
